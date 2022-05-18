@@ -5,3 +5,5 @@ Pivot tables were created based on a number of parameters and charts were build 
 The charts were combined together to build dashboard.
 
 [Coursera Project Link](https://www.coursera.org/projects/create-charts-dashboards-using-microsoft-excel)
+
+![Screenshot (1)](https://user-images.githubusercontent.com/75059347/168962687-621ca333-4f1d-418e-bee4-9ca77120153c.png)
