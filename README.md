@@ -4,7 +4,7 @@ As a part of the guided project from Coursera, the aim of this project was to cr
 Pivot tables were created based on a number of parameters and charts were build to visualize the same. 
 The charts were combined together to build dashboard.
 
-Based on the dataset, pivot tables were created to analyse the following:
+Based on the dataset, pivot tables and charts were created to analyse the following:
 * Sales by Month
 * Sales by Salesperson
 * Items sold by Category
